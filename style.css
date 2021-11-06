@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    top: 10%;
+    margin-top: 10%;
+}
+
+#generate{
+    padding: 1% 1% 1% 1%;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+    box-shadow: 2px 2px #cfcfcf;
+}
